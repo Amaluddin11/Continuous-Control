@@ -1,6 +1,8 @@
 # Continuous-Control
 Udacity Deep Reinforcement Learning Project 2
 
+The algorithm used in this project is an actor-critic algorithm, the Deep Deterministic Policy Gradients (DDPG) algorithm.
+
 # Project Details
 
 This project is on the [**Reacher**](https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Learning-Environment-Examples.md#reacher) environment.
@@ -32,8 +34,7 @@ The task is episodic, and in order to solve the environment, the agent must get 
 3. Place the file in the p2_continuous-control/ folder in the DRLND GitHub repository, and unzip (or decompress) the file.
 
 # Instructions
-
-The method to use is an actor-critic algorithm, the Deep Deterministic Policy Gradients (DDPG) algorithm.
+Follow the instructions in Continuous_Control.ipynb to get started with training your the agent.
 
 # License
 This project is licensed under the MIT License - see the [**LICENSE**](https://opensource.org/license/mit-license-php/) file for details.
