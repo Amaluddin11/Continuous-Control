@@ -13,6 +13,8 @@ The task is episodic, and in order to solve the environment, the agent must get 
 
 # Getting Started
 
+1. To set up Python environment, follow this [link](https://github.com/udacity/deep-reinforcement-learning#dependencies).
+
 The method to use is an actor-critic algorithm, the Deep Deterministic Policy Gradients (DDPG) algorithm.
 
 # Instructions
