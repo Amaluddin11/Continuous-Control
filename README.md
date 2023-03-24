@@ -29,13 +29,11 @@ The task is episodic, and in order to solve the environment, the agent must get 
 
     Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher_Windows_x86_64.zip)
 
-3. 
-
-
-
-The method to use is an actor-critic algorithm, the Deep Deterministic Policy Gradients (DDPG) algorithm.
+3. Place the file in the p2_continuous-control/ folder in the DRLND GitHub repository, and unzip (or decompress) the file.
 
 # Instructions
+
+The method to use is an actor-critic algorithm, the Deep Deterministic Policy Gradients (DDPG) algorithm.
 
 # License
 This project is licensed under the MIT License - see the [**LICENSE**](https://opensource.org/license/mit-license-php/) file for details.
